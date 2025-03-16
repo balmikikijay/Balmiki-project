@@ -214,6 +214,13 @@ body {
     justify-content: space-between;
     padding: 2.3vw 5.5vw;
 }
+#balmiki{
+    height: 1vw;
+    width: 1vw;
+    font-weight: 500;
+    font-family: sans-serif;
+}
+
 
 #nav-part2 {
     display: -webkit-box;
@@ -803,14 +810,18 @@ body {
 .box {
     width: 20%;
 }
-
+.box h5{
+    /* text-decoration: none; */
+}
 #footer-div h5 {
+    /* text-decoration: none; */
     font-size: 1.4vw;
     font-weight: 500;
     /* margin: 0.1vh 0; */
 }
 
 #footer>h5 {
+    /* text-decoration: none; */
     font-weight: 500;
     font-size: 1vw;
 }
